@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>tesla</finalName>
+		<finalName>paypalProd</finalName>
 		
 		<plugins>
 			<plugin>
