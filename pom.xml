@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>tsela-fe</finalName>
+		<finalName>tsela</finalName>
 		
 		<plugins>
 			<plugin>
